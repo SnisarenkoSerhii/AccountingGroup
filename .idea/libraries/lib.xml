@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="lib">
+    <ANNOTATIONS>
+      <root url="file://C:/JavaP/hibernate-release-5.1.0.Final/hibernate-release-5.1.0.Final/lib" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://C:/JavaP/hibernate-release-5.1.0.Final/hibernate-release-5.1.0.Final/lib" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://C:/JavaP/hibernate-release-5.1.0.Final/hibernate-release-5.1.0.Final/lib" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="file://C:/JavaP/hibernate-release-5.1.0.Final/hibernate-release-5.1.0.Final/lib" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file://C:/JavaP/hibernate-release-5.1.0.Final/hibernate-release-5.1.0.Final/lib" />
+    </SOURCES>
+    <jarDirectory url="file://C:/JavaP/hibernate-release-5.1.0.Final/hibernate-release-5.1.0.Final/lib" recursive="false" />
+    <jarDirectory url="file://C:/JavaP/hibernate-release-5.1.0.Final/hibernate-release-5.1.0.Final/lib" recursive="false" type="SOURCES" />
+  </library>
+</component>
